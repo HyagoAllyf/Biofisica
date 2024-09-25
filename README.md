@@ -1,2 +1,2 @@
-# Biofisica
-Resoluções de questões do curso de Biofísica celular e molecular
+# Cellular and Molecular Biophysics
+Resolutions of questions frm the Cellular and Molecular Biophysics course
